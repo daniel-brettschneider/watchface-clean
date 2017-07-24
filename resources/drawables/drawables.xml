@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="batteryIcon" filename="battery.png" />
+    <bitmap id="msgIcon" filename="comment.png" />
+    <bitmap id="distanceIcon" filename="bar.png" />
+    <bitmap id="connectionIcon" filename="wifi_off.png" />
+    <bitmap id="batteryLowIcon" filename="battery_low.png" />
+</drawables>

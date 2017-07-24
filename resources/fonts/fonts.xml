@@ -1,0 +1,4 @@
+<fonts>
+    <font id="font_numbers" filename="numbers.fnt" filter="0123456789" />
+    <font id="font_numbers_bold" filename="numbers_bold.fnt" filter="0123456789" />
+</fonts>
