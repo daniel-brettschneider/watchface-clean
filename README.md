@@ -9,6 +9,6 @@ Shows
 * distance,
 * steps.
 
-![preview][preview.jpg]
+![preview](preview.jpg)
 
 Sadly, there is no option to show an upcoming alarm time in the current SDK.
